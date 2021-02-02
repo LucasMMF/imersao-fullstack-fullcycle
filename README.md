@@ -6,9 +6,9 @@
 # Microsserviço CodePix
 Esse microsserviço tem o objetivo de ser um hub de transações entre os bancos que simularemos durante o projeto.
 
-O projeto original e o conteúdo estritamente das aulas pode ser encontrado aqui: https://github.com/codeedu/imersao-fullstack-fullcycle
-
 Também estarão incluidos no projeto alguns desafios que forem requisitados durante a imersão, além do conteúdo da aula.
+
+O projeto original e o conteúdo estritamente das aulas pode ser encontrado aqui: https://github.com/codeedu/imersao-fullstack-fullcycle
 
 # Como executar
 
