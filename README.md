@@ -15,7 +15,7 @@ O projeto original e o conteúdo estritamente das aulas pode ser encontrado aqui
 Utilizamos Docker para que todos os serviços que utilizaremos fiquem disponíveis.
 
 * Faça o clone do projeto
-* Tendo o docker instalado em sua máquina apenas execute: docker-compose up -d
+* Tendo o docker instalado em sua máquina apenas execute: `docker-compose up -d`
 
 ### Como executar a aplicação
 * Acesse o container da aplicação executando: `docker exec -it codepix_app bash`
